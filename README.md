@@ -4,7 +4,6 @@
 
 ![workflow](https://img.shields.io/badge/status-active-brightgreen)
 ![approaches](https://img.shields.io/badge/AI--Powered-4%20methods-blueviolet)
-![license](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
